@@ -1,0 +1,40 @@
+.navbar{
+   /* display: flex;*/
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav>ul{
+    display: flex;
+    justify-content: space-between;
+}
+.welcome_img{
+    text-align: center;
+}
+.welcome_img>img{
+   height: 80vh;
+   width: 80vw;
+}
+ul>li{
+    list-style: none;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.html_part{
+text-align: center;
+}
+.css_part{
+
+text-align: center;
+
+}
+.js_part{
+
+text-align: center;
+
+
+}
